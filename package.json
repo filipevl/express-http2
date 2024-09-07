@@ -1,14 +1,14 @@
 {
-  "name": "http2",
+  "name": "express-http2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "generate-cert": "sh ./scripts/generate-cert.sh"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["http2"],
+  "author": "Filipe Viana Lacerda",
   "license": "ISC",
-  "description": "",
+  "description": "Sample of express using HTTP2",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
